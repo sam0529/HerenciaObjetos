@@ -58,7 +58,6 @@ public class Principal {
                         + "2.Salir\n"
                         + "Ingrese el calculo a realizar: ");
                 nm = leer.nextInt();
-                System.out.println(nn + " asd");
                 if (nm == 1) {
                     lado = lado;
                 }
